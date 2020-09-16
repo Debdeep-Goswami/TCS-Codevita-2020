@@ -1,5 +1,13 @@
 # TCS-Codevita-2020
 
-The Problem is written in "Question B.docx" file
+1. Question B.docx
 
-The solution of that problem is in "B.c" file
+Ans. B.c
+
+Remarks :- Succesfully Accepted
+
+2. Question C.docx
+
+Ans. C.c
+
+Remarks :- Executed successfully but time limit exceeeds
