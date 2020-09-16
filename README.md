@@ -6,6 +6,7 @@ Ans. B.c
 
 Remarks :- Succesfully Accepted
 
+________________________________________________________
 
 2. Question C.docx
 
