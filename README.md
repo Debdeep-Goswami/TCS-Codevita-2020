@@ -12,4 +12,4 @@ ________________________________________________________
 
 Ans. C.c
 
-Remarks :- Executed successfully but time limit exceeeds
+Remarks :- Executed successfully but time limit exceeded
